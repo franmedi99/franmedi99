@@ -12,8 +12,6 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://franmedi99.github.io/fmedina](https://franmedi99.github.io/fmedina)
 
-- 💬 Pregúntame sobre **React,Node y paquetes de npm**
-
 - 📫 Cómo llegar a mí? **https://www.linkedin.com/in/francisco-medina99/**
 
 <h3 align="left">Lenguajes y herramientas:</h3>
